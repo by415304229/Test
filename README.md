@@ -1,4 +1,4 @@
-![用户授权数据流图](https://statics.codedefault.com/uploads/u/2019/05/56f6756js4.png)
+
 # ZPMC_MES
 
 ## 项目简介
